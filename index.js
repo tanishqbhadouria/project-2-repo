@@ -1,6 +1,8 @@
 import express from "express"
 const app = express();
 
+console.log('jdfldj');
+
 app.listen(3000,()=>{
     console.log("sever is running at port 3000");
 })
